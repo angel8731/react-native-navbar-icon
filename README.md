@@ -1,7 +1,7 @@
 ## Customizable navbar for react-native
-![react-native-side-menu demo](https://habrastorage.org/files/1b4/9cd/9d0/1b49cd9d0d054cada8ebef5e2326e10d.png)
+![react-native-navbar-icon demo](https://github.com/angel8731/react-native-navbar-icon/blob/master/img/react-native-navbar-icon.png)
 
-##此组件是react-native-navbar的扩展版本，增加navbar左右按钮对图标的支持，仅此而已，这里仅提供api供大家参考使用，具体细节请参考 [简react-native-navbar](https://github.com/react-native-fellowship/react-native-navbar)
+##此组件是react-native-navbar的扩展版本，增加navbar左右按钮对图标的支持，仅此而已，这里仅提供api供大家参考使用，具体细节请参考 [react-native-navbar](https://github.com/react-native-fellowship/react-native-navbar)
 
 ### Content
 - [Installation](#installation)
