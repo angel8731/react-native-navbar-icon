@@ -6,7 +6,7 @@
 ### Content
 - [Installation](#installation)
 - [API](#api)
-- [Usage with webpack](#usage-with-webpack)
+- [Demo](#Demo)
 - [Questions?](#questions)
 
 ### Installation
