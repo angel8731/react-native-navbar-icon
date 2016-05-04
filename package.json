@@ -1,0 +1,37 @@
+{
+  "author": "Alexey Kureev <kureev-mail@ya.ru> (https://github.com/Kureev)",
+  "bugs": {
+    "url": "https://github.com/react-native-fellowship/react-native-navbar/issues"
+  },
+  "dependencies": {},
+  "description": "Simple customizable navbar component for react-native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f1214d563c68f6795b9060d4717789c3300d80cd",
+    "tarball": "https://registry.npmjs.org/react-native-navbar/-/react-native-navbar-1.4.2.tgz"
+  },
+  "homepage": "https://github.com/angel8731/react-native-navbar-icon.git",
+  "keywords": [
+    "navbar",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    "grabbou <grabbou@gmail.com>",
+    "kureev <kureev-mail@ya.ru>"
+  ],
+  "name": "react-native-navbar-icon",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">= 0.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@git@github.com:angel8731/react-native-navbar-icon.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"}
