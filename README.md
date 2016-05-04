@@ -37,7 +37,7 @@ That's it, you're ready to go!
   - **title** - (String) - Button's title
   - **tintColor** - (String) - Title's text color
 
-###Demo
+### Demo
 ```jsx 
 
 leftButton={{
